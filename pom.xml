@@ -55,6 +55,14 @@
 
     </dependencies>
 
+    <distributionManagement>
+        <repository>
+            <id>github-repo</id>
+            <url>https://maven.pkg.github.com/hariznour/3CINFOBI-G-ProjetDevops</url>
+        </repository>
+    </distributionManagement>
+
+
     <build>
         <plugins>
             <plugin>
